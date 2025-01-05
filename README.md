@@ -95,9 +95,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Outputs Images
 
 ![Login Page](Outputs/login.PNG)
+**Login Page**
 
 ![Profile Page](Outputs/profile.PNG)
+**Profile Page**
 
 ![Course Page](Outputs/Course.PNG)
+**Course Page**
 
 ![Subject Page](Outputs/Subject.PNG)
+**Subject Page**
