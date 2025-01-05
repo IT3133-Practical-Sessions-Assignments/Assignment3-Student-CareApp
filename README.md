@@ -31,7 +31,7 @@ The Student Care App is a comprehensive mobile application designed to support s
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/student-care-app.git
+   git clone https://github.com/IT3133-Practical-Sessions-Assignments/Assignment3-Student-CareApp.git
    ```
 2. **Navigate to the project directory**:
    ```bash
@@ -91,3 +91,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The development team for their dedication and hard work.
 
 ---
+
+## Outputs
