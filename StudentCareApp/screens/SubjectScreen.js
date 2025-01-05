@@ -2,7 +2,7 @@ import { Image, ScrollView, StyleSheet, View } from "react-native";
 import banner from "../assets/banner.png";
 import React from "react";
 import { Divider, Text } from "react-native-paper";
-import { marks, subjects } from "../assets/data/StudentsDb";
+import { marks, subjects } from "../assets/data/StudentDb";
 
 const SubjectScreen = ({ route }) => {
   const { student } = route.params;

@@ -7,7 +7,7 @@ import { Text, TextInput, Button } from "react-native-paper";
 import Ionicons from "react-native-vector-icons/Ionicons";
 import Error from "../components/Error";
 import { useNavigation } from "@react-navigation/native";
-import { students } from "../assets/data/StudentsDb";
+import { students } from "../assets/data/StudentDb";
 
 const LoginScreen = () => {
   const [showPassword, setShowPassword] = useState(false);
